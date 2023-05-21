@@ -183,7 +183,7 @@ vehicleCustomisation = {
     {category = "Arch Cover", id = 42},
     {category = "Aerial", id = 43},
     {category = "Trim B", id = 44},
-    {category = "Fuel Tank", id = 45},
+    -- {category = "Fuel Tank", id = 45},
     {category = "Window", id = 46},
     {category = "Livery", id = 48},
     {category = "Horns", id = 14,
